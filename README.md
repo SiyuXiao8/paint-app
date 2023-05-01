@@ -1,5 +1,3 @@
-<img src="./media/banner.png" alt="banner" />
-
 # Final Project!
 
 ## The Final Project Repository!
