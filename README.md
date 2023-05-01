@@ -1,5 +1,11 @@
 # Final Project
-Project overview - https://www.youtube.com/watch?v=gVrQUcaz_BY
+Project overview of Networked painting application - https://www.youtube.com/watch?v=gVrQUcaz_BY
+Features: (clients can use keyboard or mouse)
+- undo/redo of painting actions
+- change brush sizes
+- change brush types
+- earser
+- color selection
 ## Building Software
 
 Note: We are using MacOS M1 systems so building is based on that architecture.
