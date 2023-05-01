@@ -1,4 +1,4 @@
-# Final Project!
+# Final Project
 Project overview - https://www.youtube.com/watch?v=gVrQUcaz_BY
 ## Building Software
 
