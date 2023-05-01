@@ -24,10 +24,6 @@ Here is a welcome video showing the repoisory organization--be sure to read care
 https://youtu.be/F0XVOL1zQHM
 
 
-## Repository Organization 
-
-1. There are no more individual assignments.
-2. You will complete your final project in the [final project directory](./FinalProject). The organization is partially up to you on the file structure and organization, just make sure you organize it logically and against any requirements.
 
 ## Team
 
@@ -39,11 +35,6 @@ Team member Names:
 2. Deirdre Murphy
 3. Aishwarya Gopal Sharma
 4. Siyu Xiao
-
-# Team spread sheet 
-
-- Your team members and project manager are listed on the following spreadsheet [here](https://docs.google.com/spreadsheets/d/1Z81Es6K-AAlTdzFNmQA32MbcQVekF6jEHnhKCKACF2w/edit?usp=sharing). 
-- Your project manager will be your first point of contact for various project deliverables and questions. Though you may continue to attend office hours with whoever you like, your project manager will be your primary contact.
 
 ## Team Logistics
 
