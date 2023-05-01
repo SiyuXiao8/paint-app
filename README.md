@@ -1,5 +1,6 @@
 # Final Project
 Project overview of Networked painting application - https://www.youtube.com/watch?v=gVrQUcaz_BY
+
 Features: (clients can use keyboard or mouse)
 - undo/redo of painting actions
 - change brush sizes
